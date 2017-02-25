@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "627828376561",
+    "firebase_url": "https://itenasnotif.firebaseio.com",
+    "project_id": "itenasnotif",
+    "storage_bucket": "itenasnotif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627828376561:android:431c441d3691b5ce",
+        "android_client_info": {
+          "package_name": "com.example.daud.itenasschedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627828376561-hkter7un2c9bptshit0769bu4vhqd87h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWsXTWaLRBMJnsi75FoeGzE8JVRINQxF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

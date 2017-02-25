@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "10244952416",
+    "firebase_url": "https://fcmfix-fa046.firebaseio.com",
+    "project_id": "fcmfix-fa046",
+    "storage_bucket": "fcmfix-fa046.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10244952416:android:86006af9c1a33b6c",
+        "android_client_info": {
+          "package_name": "com.example.daud.itenasschedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10244952416-44to8blm2vb700pr8dmoltb6k8uo98kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDyH0xKPDfuXAm3pK34-wrJfzpFDlr4UY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
